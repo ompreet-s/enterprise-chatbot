@@ -1,0 +1,9 @@
+venv/
+__pycache__/
+*.pyc
+.env
+faiss_index/
+*.db
+*.mp3
+response.mp3
+.DS_Store
