@@ -2,7 +2,7 @@
 
 An AI-powered document Q&A system that lets you upload documents and ask questions about them using text or voice — powered by RAG (Retrieval-Augmented Generation), LLaMA 3.3, and FAISS.
 
-![Enterprise Chatbot Screenshot](assets/screenshot.png)
+![Enterprise Chatbot Screenshot](frontend/src/assets/Screenshot%202026-06-19%20110829.png)
 
 🔗 **Repository:** [github.com/ompreet-s/enterprise-chatbot](https://github.com/ompreet-s/enterprise-chatbot)
 
